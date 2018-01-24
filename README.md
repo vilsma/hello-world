@@ -1,3 +1,3 @@
 # hello-world
 Testi
-Lisätään rivi opettulun vuoksi
+Lisätään rivi opettelun vuoksi
